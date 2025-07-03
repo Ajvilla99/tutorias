@@ -107,7 +107,7 @@ Envía datos al servidor para crear un nuevo recurso.
 
 - Crear un usuario, enviar un comentario, registrar un producto.
 
-🧪 Ejemplo
+### 🧪 Ejemplo
 
 ```js
 fetch("https://api.example.com/users", {
