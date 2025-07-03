@@ -275,5 +275,13 @@ Crear una aplicación web básica en HTML y JavaScript que permita realizar oper
 ### 💡 Sugerencias adicionales
 
 - Usa `fetch()` con `async/await` para mayor claridad.
-- Muestr
+- Muestra mensajes de éxito o error en pantalla.
+- Mantén el código organizado por funciones.
+- Usa una estructura de carpetas como:
 
+```
+/crud-usuarios
+├── index.html
+├── script.js
+└── styles.css
+```
