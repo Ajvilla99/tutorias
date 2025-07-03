@@ -276,3 +276,4 @@ Crear una aplicación web básica en HTML y JavaScript que permita realizar oper
 
 - Usa `fetch()` con `async/await` para mayor claridad.
 - Muestr
+
